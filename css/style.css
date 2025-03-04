@@ -70,3 +70,15 @@ header span {
   border: green 1px solid;
   margin: 3px;
 }
+
+.cross {
+  display: inline-block;
+  width: 25px;
+  border-radius: 50%;
+  text-align: center;
+  background-color: transparent;
+  color: red;
+  padding: 2px;
+  border: red 1px solid;
+  margin: 3px;
+}
