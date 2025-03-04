@@ -58,3 +58,15 @@ header span {
   color: lightgrey;
   border: 2px solid lightgrey;
 }
+
+.check {
+  display: inline-block;
+  width: 25px;
+  border-radius: 50%;
+  text-align: center;
+  background-color: transparent;
+  color: green;
+  padding: 2px;
+  border: green 1px solid;
+  margin: 3px;
+}
