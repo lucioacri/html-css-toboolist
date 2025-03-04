@@ -28,7 +28,7 @@ header span {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 0 auto;
   background-color: white;
   margin-top: 20px;
@@ -81,4 +81,42 @@ header span {
   padding: 2px;
   border: red 1px solid;
   margin: 3px;
+}
+
+section {
+  margin: 30px;
+}
+
+#button {
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 30%;
+  line-height: 20px;
+  text-align: center;
+  padding: 2px 10px;
+  color: white;
+}
+
+.blue {
+  background-color: #4ba9e7;
+}
+
+.green {
+  background-color: #b0ca2b;
+}
+
+.pink {
+  background-color: #d764a7;
+}
+
+.orange {
+  background-color: #efa338;
+}
+
+.lightblue {
+  background-color: #61c0a8;
+}
+
+.purple {
+  background-color: #9c71e7;
 }
