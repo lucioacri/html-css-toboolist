@@ -34,6 +34,10 @@ header span {
   margin-top: 20px;
 }
 
+section {
+  margin: 30px;
+}
+
 .square-button {
   display: inline-block;
   width: auto;
@@ -81,10 +85,6 @@ header span {
   padding: 2px;
   border: red 1px solid;
   margin: 3px;
-}
-
-section {
-  margin: 30px;
 }
 
 #button {
