@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: red;
+}
+
+header {
+  background-color: white;
+  color: #001533;
+  height: 120px;
+}
+
+header .container img {
+  width: 100px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header .container span {
+  font-size: 90px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+main .container {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: white;
+}
