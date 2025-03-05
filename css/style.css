@@ -134,3 +134,7 @@ section {
 .purple {
   background-color: #9c71e7;
 }
+
+ul {
+  list-style-type: none;
+}
